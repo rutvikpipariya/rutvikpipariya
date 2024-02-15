@@ -18,9 +18,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Rutvik+Pipaliya">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Rutvik+Pipaliya">Google Me</a>
     <br>
-    「 I am a iOS Application Developer from <b>Gujarat</b> 」
+    I am a iOS Application Developer from <b>Gujarat</b>
     <br>
     <br>
   </samp>
