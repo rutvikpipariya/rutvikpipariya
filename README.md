@@ -45,7 +45,3 @@
  📧 &emsp; Reach me anytime: rutvikpipariya2@gmail.com<br/><br/>
 
 </p>
-
-<br/>
-<br/>
-<br/>
