@@ -45,22 +45,15 @@
  📧 &emsp; Reach me anytime: rutvikpipariya2@gmail.com<br/><br/>
 
 </p>
-<!--
+
 ## Use To Code
-<!--
+
 ![Swift](https://img.shields.io/badge/Swift-F0DB4F?style=for-the-badge&labelColor=black&logo=swift&logoColor=F0DB4F)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007acc?style=for-the-badge&labelColor=black&logo=swiftui&logoColor=007acc)
 ![Objective-C](https://img.shields.io/badge/-Objective_C-61DBFB?style=for-the-badge&labelColor=black&logo=objective-c&logoColor=61DBFB)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=white)
 
-## Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-2D2E83?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI">
-  <img src="https://img.shields.io/badge/Objective--C-007ACC?style=for-the-badge&logo=objective-c&logoColor=white" alt="Objective-C">
-</p>
 
 
 <br/>
