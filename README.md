@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/rutvikpipariya"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World%20!;iOS%20App%20Developer;6%2B%20Months%20of%20iOS%20App%20Development%20experience&center=true&width=550&height=45"></a>
+  <a href="https://github.com/rutvikpipariya"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%20World%20!;iOS%20App%20Developer;8%2B%20Months%20of%20iOS%20App%20Development%20experience&center=true&width=550&height=45"></a>
 </p>
 
 
